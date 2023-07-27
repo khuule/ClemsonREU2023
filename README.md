@@ -2,8 +2,11 @@
 ## "checking.sage"
 Used to verify the finitely many cases left for Theorem 1.8.
 
+## "zgap.sage"
+Used to obtain a big-o constant for the case $k\geq 6$.
+
 ## "4bigO.sage"
-Used to derive a big O constant for the case $k=4$.
+Used to derive a big-O constant for the case $k=4$.
 
 ## "rfz.sage"
 Computes all roots for a level up to $N=10$.
