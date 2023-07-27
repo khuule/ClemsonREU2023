@@ -11,7 +11,7 @@ def upper_half(arr):
     arr_arg = [];
     for x in arr:
         #rotate
-        arr_arg.append(arg(x*-i));
+        arr_arg.append(arg(x*-I));
     #print(arr_arg);
     arr_upper = [];
 
