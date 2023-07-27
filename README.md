@@ -10,6 +10,4 @@ Computes all roots for a level up to $N=10$.
 
 ## "roots"
 This directory contains some roots computed up to level $N=10$. Each line of a "N__rfzs.txt" file contains an array in the following format:
-\[
-[N, m, \epsilon(f), ...roots]
-\]
+$$[N, m, \epsilon(f), ...roots]$$
