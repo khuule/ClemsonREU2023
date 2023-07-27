@@ -13,4 +13,5 @@ Computes all roots for a level up to $N=10$.
 
 ## "roots"
 This directory contains some roots computed up to level $N=10$. Each line of a "N__rfzs.txt" file contains an array in the following format:
-$$[N, m, \varepsilon(f), ...\text{Roots of }r_f(z)].$$
+$$[N, m, \varepsilon(f), z_1,z_2,...z_{2m+2}],$$
+where $z_i$ is a root of $r_f(z)$.
