@@ -3,7 +3,7 @@
 Used to verify the finitely many cases left for $N=1$, Theorem 1.8. The code may be adapted to different levels $N$, but be wary that higher levels have lower precision.
 
 ## "checking_pari.sage"
-Used to verify our results hold for $N=2,3,10$ for $m<m'\leq 51$.
+Used to verify our results hold for $N=2,3,10$ for $m<m'\le 51$.
 
 ## "zgap.sage"
 Used to obtain a big-O constant for the case $k\geq 6$.
