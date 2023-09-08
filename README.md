@@ -21,3 +21,6 @@ Computes $D$ as in Section 8 of the paper.
 This directory contains some roots computed up to level $N=10$. Each line of a "N__rfzs.txt" file contains an array in the following format:
 $$[N, m, \varepsilon(f), z_1,z_2,...z_{2m+2}],$$
 where $z_i$ is a root of $r_f(z)$
+
+## "Pari_GP"
+This directory contains roots in the same format as above. However, they were computed using Pari/GP which has much higher precision for higher levesls $N$.
