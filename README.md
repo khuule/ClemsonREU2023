@@ -2,14 +2,17 @@
 ## "checking.sage"
 Used to verify the finitely many cases left for $N=1$, Theorem 1.8. The code may be adapted to different levels $N$, but be wary that higher levels have lower precision.
 
+## "checking_pari.sage"
+Used to verify our results hold for $N=2,3,10$ for $m<m'\leq 51$.
+
 ## "zgap.sage"
-Used to obtain a big-o constant for the case $k\geq 6$.
+Used to obtain a big-O constant for the case $k\geq 6$.
 
 ## "4bigO.sage"
 Used to derive a big-O constant for the case $k=4$.
 
-## "compute_roots/N'x'rfz.sage"
-Computes all roots for a level $N=x$.
+## "compute_roots"
+Contains code to compute roots of period polynomials for various levels of $N$.
 
 ## "functions.sage"
 Contains functions used in "checking.sage".
